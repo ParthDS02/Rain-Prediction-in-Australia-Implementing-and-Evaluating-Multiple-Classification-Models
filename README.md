@@ -1,6 +1,6 @@
 ## Project Overview
 
-This project was completed as part of the Honors portion of the **IBM Machine Learning with Python** course on Coursera. The goal of the project was to build a classifier capable of predicting whether there will be rain the following day, based on historical weather data.
+This project was completed as part of the Honors portion of the **IBM Machine Learning with Python course on Coursera**. The goal of the project was to build a classifier capable of predicting whether there will be rain the following day, based on historical weather data.
 
 ### Dataset
 
