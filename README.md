@@ -2,6 +2,12 @@
 
 This project was completed as part of the Honors portion of the **IBM Machine Learning with Python course on Coursera**. The goal of the project was to build a classifier capable of predicting whether there will be rain the following day, based on historical weather data.
 
+## Coursera Certification
+
+I have completed the **IBM Machine Learning with Python** course on Coursera. You can view my certification below:
+
+[View Certificate](https://www.coursera.org/account/accomplishments/verify/PXXD5XJ8YNJW)
+
 ### Dataset
 
 The dataset used for this project was sourced from the Australian Government's Bureau of Meteorology. It contains daily weather observations from 2008 to 2017. The dataset includes several weather-related features such as temperature, rainfall, humidity, wind speed, and more, along with the target variable, **RainTomorrow**, which indicates whether it will rain the next day.
@@ -59,12 +65,5 @@ The performance of the models was evaluated using the following metrics:
 5. Mean Absolute Error (MAE)
 6. Mean Squared Error (MSE)
 7. R²-Score
-
-## Coursera Certification
-
-I have completed the **IBM Machine Learning with Python** course on Coursera. You can view my certification below:
-
-[View Certificate](https://www.coursera.org/account/accomplishments/verify/PXXD5XJ8YNJW)
-
 
 <code> Parth B Mistry</code>
