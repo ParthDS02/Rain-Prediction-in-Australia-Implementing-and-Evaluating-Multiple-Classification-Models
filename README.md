@@ -60,6 +60,11 @@ The performance of the models was evaluated using the following metrics:
 6. Mean Squared Error (MSE)
 7. R²-Score
 
-This project demonstrates the application of machine learning techniques to real-world weather prediction problems.
+## Coursera Certification
+
+I have completed the **IBM Machine Learning with Python** course on Coursera. You can view my certification below:
+
+[View Certificate](https://www.coursera.org/account/accomplishments/verify/PXXD5XJ8YNJW)
+
 
 <code> Parth B Mistry</code>
